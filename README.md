@@ -305,10 +305,6 @@ Output / Results
 Scan results are streamed in real-time to the terminal with full Nmap output. Optionally, results can be saved to timestamped text files with the following structure:
 
 
-
-
-# PwnScanner - Scan Results
-
 # Author: PwnPilot
 
 GitHub: github.com/PwnPilot
