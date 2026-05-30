@@ -311,22 +311,4 @@ Scan results are streamed in real-time to the terminal with full Nmap output. Op
 
 # Author: PwnPilot
 
-# Targets (2):
-
-#   - 192.168.1.1
-
-#   - 93.184.216.34
-
-# Scan Type: SYN Stealth Scan
-
-# Command: nmap -sS 192.168.1.1 93.184.216.34
-############################################################
-
-# Scan completed by PwnScanner
-
-
-**Author**
-
-PwnPilot
-
 GitHub: github.com/PwnPilot
