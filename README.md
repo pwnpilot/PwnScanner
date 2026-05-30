@@ -18,7 +18,6 @@ Built for penetration testers, network administrators, and security professional
 Detect live hosts on a target network using various probe techniques.
 
 
-
 Option	Technique	Nmap Command
 
 ICMP Echo Sweep	Standard ping sweep	nmap -sn -PE <target>
